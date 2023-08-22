@@ -49,4 +49,4 @@ That's a brief overview of the `printf()` function in C! It's a powerful tool fo
 
 #Authors
 
-Partner 1: Byaruhanga Francis Github profile: https://github.com/Francis-Byaruhanga
+Partner 1: Byaruhanga Francis    Github profile: https://github.com/Francis-Byaruhanga
