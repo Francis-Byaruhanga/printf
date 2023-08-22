@@ -45,3 +45,8 @@ Remember to match the number and types of arguments with the format specifiers i
 Additionally, it's important to handle escape sequences like `\n` (newline) and `\t` (tab) to control the layout of the printed output.
 
 That's a brief overview of the `printf()` function in C! It's a powerful tool for displaying formatted output in your programs.
+
+
+#Authors
+
+Partner 1: Byaruhanga Francis Github profile: https://github.com/Francis-Byaruhanga
